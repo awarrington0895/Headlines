@@ -1,2 +1,16 @@
+/* line 3, C:/Users/Alex/Documents/Websites/Headlines/sass/main.scss */
+html
+div {
+  display: block; }
+
+/* line 7, C:/Users/Alex/Documents/Websites/Headlines/sass/main.scss */
+html
+ul {
+  list-style-type: none; }
+
+/* line 15, C:/Users/Alex/Documents/Websites/Headlines/sass/main.scss */
+.header
+li {
+  display: inline-block; }
 
 /*# sourceMappingURL=main.css.map */
